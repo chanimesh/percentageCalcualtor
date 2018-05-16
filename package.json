@@ -1,0 +1,22 @@
+{
+  "name": "percentagecalcualtor",
+  "version": "1.0.0",
+  "description": "percentage calculator",
+  "main": "percentageCalculator.js",
+  "scripts": {
+    "test": "jasmine --config=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanimesh/percentageCalcualtor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanimesh/percentageCalcualtor/issues"
+  },
+  "homepage": "https://github.com/chanimesh/percentageCalcualtor#readme",
+  "devDependencies": {
+    "jasmine": "^3.1.0"
+  }
+}
